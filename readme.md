@@ -1,4 +1,4 @@
-# Laravel PHP Framework
+# Blog NLP
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
@@ -7,7 +7,7 @@
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
 
-# Blog NLP
+
 This is Blog written in laravael PHP which is integrated with Watson Natural Language Understanding AND Tone Analyzer inorder to understand tone and language used by the blog users and thereby providng feedback whether users are happy with the product or not.
 I have intergrated Watson API with PHP code to create a blog where users and enter their reviews and other informations
 
