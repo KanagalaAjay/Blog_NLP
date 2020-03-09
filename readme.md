@@ -13,6 +13,7 @@ This is Blog written in laravael PHP which is integrated with Watson Natural Lan
 I have intergrated Watson API with PHP code to create a blog where users and enter their reviews and other informations
 
 https://www.ibm.com/watson/services/tone-analyzer/
+https://www.ibm.com/cloud/watson-natural-language-understanding
 
 ## Built on Laravel
 
